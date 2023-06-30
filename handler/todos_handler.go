@@ -3,9 +3,9 @@ package handler
 import (
 	"net/http"
 
-	"github.com/alvingxv/todos-kelompok5/dto"
-	"github.com/alvingxv/todos-kelompok5/pkg/errs"
-	"github.com/alvingxv/todos-kelompok5/service"
+	"github.com/alvingxv/create-go-ddd/dto"
+	"github.com/alvingxv/create-go-ddd/pkg/errs"
+	"github.com/alvingxv/create-go-ddd/service"
 	"github.com/gin-gonic/gin"
 )
 

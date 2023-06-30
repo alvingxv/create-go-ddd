@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/alvingxv/todos-kelompok5/entity"
+	"github.com/alvingxv/create-go-ddd/entity"
 	"gorm.io/driver/postgres"
 	"gorm.io/gorm"
 )

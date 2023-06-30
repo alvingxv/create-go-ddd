@@ -1,9 +1,9 @@
 package handler
 
 import (
-	"github.com/alvingxv/todos-kelompok5/database"
-	"github.com/alvingxv/todos-kelompok5/repository/todo_repository/todo_pg"
-	"github.com/alvingxv/todos-kelompok5/service"
+	"github.com/alvingxv/create-go-ddd/database"
+	"github.com/alvingxv/create-go-ddd/repository/todo_repository/todo_pg"
+	"github.com/alvingxv/create-go-ddd/service"
 	"github.com/gin-gonic/gin"
 )
 

@@ -1,9 +1,9 @@
 package todo_pg
 
 import (
-	"github.com/alvingxv/todos-kelompok5/entity"
-	"github.com/alvingxv/todos-kelompok5/pkg/errs"
-	"github.com/alvingxv/todos-kelompok5/repository/todo_repository"
+	"github.com/alvingxv/create-go-ddd/entity"
+	"github.com/alvingxv/create-go-ddd/pkg/errs"
+	"github.com/alvingxv/create-go-ddd/repository/todo_repository"
 	"gorm.io/gorm"
 )
 

@@ -1,6 +1,6 @@
 package main
 
-import "github.com/alvingxv/todos-kelompok5/handler"
+import "github.com/alvingxv/create-go-ddd/handler"
 
 func main() {
 	handler.StartApp()
